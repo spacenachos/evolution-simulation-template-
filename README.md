@@ -34,7 +34,7 @@ You need to have [Node.js](https://nodejs.org/en/) (version 20 or later) and npm
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone <https://github.com/spacenachos/evolution-simulation-template>
     cd <repository-folder>
     ```
 
